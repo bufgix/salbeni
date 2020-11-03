@@ -1,7 +1,7 @@
 {
   "name": "salbeni",
   "version": "1.0.0",
-  "description": "Salbeni is a automate joining lesson program for KTUN Distance Education",
+  "description": "Salbeni is an automate joining lesson program for KTUN Distance Education",
   "main": "./lib/index.js",
   "scripts": {
     "start": "yarn build && ./bin/index.js",
