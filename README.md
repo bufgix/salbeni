@@ -4,8 +4,8 @@
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://twitter.com/bufgix\_" target="_blank">
-    <img alt="Twitter: bufgix_" src="https://img.shields.io/twitter/follow/bufgix\_.svg?style=social" />
+  <a href="https://twitter.com/bufgix_" target="_blank">
+    <img alt="Twitter: bufgix_" src="https://img.shields.io/twitter/follow/bufgix_.svg?style=social" />
   </a>
 </p>
 
@@ -22,6 +22,8 @@ yarn
 ```sh
 yarn start
 ```
+
+[![asciicast](https://asciinema.org/a/F98Nj1yseunhXiT31F0OToCDv.svg)](https://asciinema.org/a/F98Nj1yseunhXiT31F0OToCDv)
 
 ## Run tests
 
